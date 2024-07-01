@@ -1,7 +1,7 @@
 ![banner](./doc/images/banner.png)
 
 ---
-[Apresentação](./doc/apresentacao.pdf) • [Projeto Acadêmico](./doc/apresentacao.pdf)
+[Apresentação](./doc/apresentacao.pdf) • [Projeto Acadêmico](./doc/projeto.pdf)
 
 # Introdução
 Em face do cenário atual, é perceptível a importância da realidade virtual e aumentada para uma imersão em determinada situação ou assunto. Em âmbito escolar onde se tem um ambiente mais reduzido é de extrema importância fazermos uso dessas ferramentas para um maior aproveitamento do estudante.
