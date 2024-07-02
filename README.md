@@ -77,3 +77,24 @@ mais funções por meio de evoluir e desmembrar o projeto do modo usado para o t
 (filtros usados pelo Instagram), podendo levar o projeto ao ponto de ter um aplicativo próprio
 disponível para escolas e a todos que tenham interesse, curando a dependência da rede social
 para a utilização do mesmo.
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/112896260?v=4" width="100px;" alt="João Victor Foto de Perfil "/><br>
+        <sub>
+          <b>Joao Victor</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/123277481?v=4" width="100px;" alt="Guilherme Nunes Foto de Perfil"/><br>
+        <sub>
+          <b>Guilherme Nunes</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
